@@ -46,7 +46,7 @@ public class Dtest {
         System.out.print("hiot5");
     }
 
-    public static void sayHiot6(){
-        System.out.print("hiot6");
-    }
+//    public static void sayHiot6(){
+//        System.out.print("hiot6");
+//    }
 }
