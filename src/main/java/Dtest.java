@@ -32,4 +32,12 @@ public class Dtest {
     public static void sayHiot2(){
         System.out.print("hiot2");
     }
+
+    public static void sayHiot3(){
+        System.out.print("hiot3");
+    }
+
+    public static void sayHiot4(){
+        System.out.print("hiot4");
+    }
 }
