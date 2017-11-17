@@ -21,6 +21,8 @@ public class Dtest {
         System.out.print("word");
     }
 
-
+    public static void sayHi(){
+        System.out.print("hi");
+    }
 
 }
