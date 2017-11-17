@@ -49,4 +49,8 @@ public class Dtest {
 //    public static void sayHiot6(){
 //        System.out.print("hiot6");
 //    }
+
+    public static void te(){
+
+    }
 }
