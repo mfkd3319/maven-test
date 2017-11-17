@@ -40,4 +40,13 @@ public class Dtest {
     public static void sayHiot4(){
         System.out.print("hiot4");
     }
+
+
+    public static void sayHiot5(){
+        System.out.print("hiot5");
+    }
+
+    public static void sayHiot6(){
+        System.out.print("hiot6");
+    }
 }
