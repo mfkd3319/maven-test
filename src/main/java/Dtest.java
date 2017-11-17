@@ -5,10 +5,7 @@ public class Dtest {
 
     public static void main(String args[]){
 
-        System.out.print("branch-->master");
-        System.out.print("18888833333");
-        System.out.print("1");
-        System.out.print("18833333");
-        System.out.print("13");
+        System.out.print("18888888313131333333333333333333333333333333333333333");
+        System.out.print("18888888313131333333333333333333333333333333333333333");
     }
 }
