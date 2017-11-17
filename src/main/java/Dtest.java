@@ -28,4 +28,8 @@ public class Dtest {
     public static void sayHio(){
         System.out.print("hio");
     }
+
+    public static void sayHiot2(){
+        System.out.print("hiot2");
+    }
 }
