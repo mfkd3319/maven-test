@@ -25,4 +25,7 @@ public class Dtest {
         System.out.print("hi");
     }
 
+    public static void sayHio(){
+        System.out.print("hio");
+    }
 }
