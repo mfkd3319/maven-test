@@ -4,8 +4,17 @@
 public class Dtest {
 
     public static void main(String args[]){
+        Dtest.sayHello();
+        Dtest.sayWord();
+        System.out.print("first-branch");
 
-        System.out.print("master");
+    }
 
+    public static void sayHello(){
+        System.out.print("hello");
+    }
+
+    public static void sayWord(){
+        System.out.print("word");
     }
 }
